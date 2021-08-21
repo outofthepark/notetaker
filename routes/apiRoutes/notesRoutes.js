@@ -17,7 +17,7 @@ router.get('/notes/:id', (req, res) => {
 
 router.delete('/notes/:id', (req, res) => {
   const result = deleteNote(req.params.id, notes);;
-s  if (result) {
+  if (result) {
     res.json(result);
   } else {
     res.sendStatus(404)
