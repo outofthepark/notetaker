@@ -1,14 +1,12 @@
 # Note Taker [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
 
 ## Description
-This website allows the user to take note and save them on a server. Get, post & delete routes but no update.
+This website allows the user to take notes and save them on a server.
 
 ## Table of Contents
+- [Installation](#Installation)
 - [Usage](#Usage)
 - [License](#License)
-- [Installation](#Installation)
-- [Tests](#Tests)
-- [Questions](#Questions) 
 
 ## Installation
 To use properly install node.js and express using npm init on the commanad line.
