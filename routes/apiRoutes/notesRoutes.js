@@ -3,7 +3,6 @@ const notes = require('../../data/notes');
 const {createNewNote, findById, deleteNote} = require('../../lib/notes');
 
 router.get('/notes', (req, res) => {
-  //console.log(notes);
   res.json(notes);
 });
 
@@ -18,8 +17,7 @@ router.get('/notes/:id', (req, res) => {
 
 router.delete('/notes/:id', (req, res) => {
   const result = deleteNote(req.params.id, notes);;
-  console.log(result);
-  if (result) {
+s  if (result) {
     res.json(result);
   } else {
     res.sendStatus(404)
