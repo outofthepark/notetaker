@@ -13,7 +13,8 @@ To use properly install node.js and express using npm init on the commanad line.
 
 ## Usage
 The deployed website can be found [here](https://blooming-anchorage-66352.herokuapp.com/notes).
-![Screen shot of deployed applicationn](https://user-images.githubusercontent.com/42618949/130307677-e84cfcc6-b3dd-417b-a960-5820ef37fd9e.png "Note Taker")
+![Screen shot of deployed applicationn](https://user-images.githubusercontent.com/42618949/131083620-2304da56-dd20-47a3-857e-75aa67e0a008.png "Tech Blog")
+Blog posts will be rendered using markdown!
 
 ## License
 This project is using a [Creative Commons](https://choosealicense.com/licenses/cc0-1.0/) license.   
