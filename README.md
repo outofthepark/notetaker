@@ -12,7 +12,7 @@ This website allows the user to take notes and save them on a server.
 To use properly install node.js and express using npm init on the commanad line.
 
 ## Usage
-The deployed website can be found [here](https://blooming-anchorage-66352.herokuapp.com/notes).
+The deployed website can be found [here](https://agile-temple-92129.herokuapp.com/).
 ![Screen shot of deployed applicationn](https://user-images.githubusercontent.com/42618949/131083620-2304da56-dd20-47a3-857e-75aa67e0a008.png "Tech Blog")
 Blog posts will be rendered using markdown!
 
